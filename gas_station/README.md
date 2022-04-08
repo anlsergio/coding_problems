@@ -9,3 +9,7 @@ Note that:
 - `gasCost[i]` represents the cost to go from the station `i` to the next one;
 - The answer is guaranteed to be unique;
 - If it's impossible to traverse all the circuit no matter what gas station we start from, return `-1`;
+
+<br />
+
+<img src="./resources/example.png" height="300" alt="EKS Diagram" />
